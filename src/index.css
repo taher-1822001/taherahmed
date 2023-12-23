@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  padding:0;
+  font-family: 'Varela Round', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.btn-primary{
+  background-color: #4b4f33 !important;
+  border-radius: 12px !important;
+  border:2px solid #fbad1d !important;
+}
+.down:hover{
+  color: #4b4f33;
+  
+}
+
+.fade-in {
+  animation: fadeInAnimation 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+@keyframes fadeInAnimation {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+
+
+.line-1{
+    position: relative;
+    top: 50%;  
+    width: 24em;
+    margin: 0 auto;
+    border-right: 2px solid #fbad1d;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    transform: translateY(-50%);    
+}
+
+/* Animation */
+.anim-typewriter{
+  animation: typewriter 4s steps(44) 1s 1 normal both,
+             blinkTextCursor 500ms steps(44) infinite normal;
+}
+@keyframes typewriter{
+  from{width: 0;}
+  to{width: 17em;}
+}
+@keyframes blinkTextCursor{
+  from{border-right-color: #fbad1d;}
+  to{border-right-color: transparent;}
+}
+
+.rounded{
+  border-radius: 15px !important;
+}
+
+.background{
+  background-color:#ff9a00 !important;
+}
+
+.responsive-heading {
+  font-size: 24px; /* You can set the default size as per your preference */
+}
+
+/* Media query for smaller screens */
+@media screen and (max-width: 768px) {
+  .responsive-heading {
+    font-size: 4vw; /* Adjust the font size using viewport width */
+  }
+}
+
+.theme-color{
+  color:#4b4f33;
+}
+
+
+
