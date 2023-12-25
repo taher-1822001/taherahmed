@@ -16,7 +16,7 @@ const Header = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light background" style={{ position: 'fixed', zIndex: 1000, left:"0", right:"0", top:"0" }}>
       <button
-        className="navbar-toggler m-2"
+        className="navbar-toggler "
         type="button"
         onClick={handleToggle}
         aria-expanded={isOpen ? 'true' : 'false'}
@@ -26,31 +26,31 @@ const Header = () => {
       <div className={`collapse navbar-collapse ${isOpen ? 'show' : ''}`}>
         <ul className="navbar-nav mx-auto">
           <li className="nav-item" onClick={closeNavbar}>
-            <a className="nav-link" href="#home"><span className='theme-color'><FontAwesomeIcon icon={faHome} /></span></a>
+            <a className="nav-link" href="#home"><span className='theme-color'><FontAwesomeIcon icon={faHome} className="large-icon"/></span></a>
           </li>
           <li className="nav-item" onClick={closeNavbar}>
-            <a className="nav-link" href="#about"><span className='theme-color'><FontAwesomeIcon icon={faUser} /></span></a>
+            <a className="nav-link" href="#about"><span className='theme-color'><FontAwesomeIcon icon={faUser} className="large-icon" /></span></a>
           </li>
           <li className="nav-item" onClick={closeNavbar}>
-            <a className="nav-link" href="#skills"><span className='theme-color'><FontAwesomeIcon icon={faTools} /></span></a>
+            <a className="nav-link" href="#skills"><span className='theme-color'><FontAwesomeIcon icon={faTools} className="large-icon" /></span></a>
           </li>
           <li className="nav-item" onClick={closeNavbar}>
-            <a className="nav-link" href="#experience"><span className='theme-color'><FontAwesomeIcon icon={faBriefcase} /></span></a>
+            <a className="nav-link" href="#experience"><span className='theme-color'><FontAwesomeIcon icon={faBriefcase} className="large-icon" /></span></a>
           </li>
           <li className="nav-item" onClick={closeNavbar}>
             <a className="nav-link" href="#education"><span className='theme-color'><FontAwesomeIcon icon={faGraduationCap} /></span></a>
           </li>
           <li className="nav-item" onClick={closeNavbar}>
-            <a className="nav-link" href="#certificate"><span className='theme-color'><FontAwesomeIcon icon={faCertificate} /></span></a>
+            <a className="nav-link" href="#certificate"><span className='theme-color'><FontAwesomeIcon icon={faCertificate} className="large-icon" /></span></a>
           </li>
           <li className="nav-item" onClick={closeNavbar}>
-            <a className="nav-link" href="#projects"><span className='theme-color'><FontAwesomeIcon icon={faProjectDiagram} /></span></a>
+            <a className="nav-link" href="#projects"><span className='theme-color'><FontAwesomeIcon icon={faProjectDiagram} className="large-icon" /></span></a>
           </li>
           <li className="nav-item" onClick={closeNavbar}>
-            <a className="nav-link" href="#achievements"><span className='theme-color'><FontAwesomeIcon icon={faTrophy} /></span></a>
+            <a className="nav-link" href="#achievements"><span className='theme-color'><FontAwesomeIcon icon={faTrophy} className="large-icon" /></span></a>
           </li>
           <li className="nav-item" onClick={closeNavbar}>
-            <a className="nav-link" href="#contact"><span className='theme-color'><FontAwesomeIcon icon={faEnvelope} /></span></a>
+            <a className="nav-link" href="#contact"><span className='theme-color'><FontAwesomeIcon icon={faEnvelope} className="large-icon" /></span></a>
           </li>
         </ul>
       </div>
