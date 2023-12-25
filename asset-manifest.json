@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/taherahmed/static/css/main.6e3855c7.css",
-    "main.js": "/taherahmed/static/js/main.15c4c66a.js",
+    "main.js": "/taherahmed/static/js/main.edba7724.js",
     "static/js/787.7be75eeb.chunk.js": "/taherahmed/static/js/787.7be75eeb.chunk.js",
     "static/media/teckFiesta.jpg": "/taherahmed/static/media/teckFiesta.8addfca29dab83201e95.jpg",
     "static/media/twistcontactmanager.png": "/taherahmed/static/media/twistcontactmanager.22e49a03a20c87b66526.png",
@@ -25,11 +25,11 @@
     "static/media/linkedin.png": "/taherahmed/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/taherahmed/index.html",
     "main.6e3855c7.css.map": "/taherahmed/static/css/main.6e3855c7.css.map",
-    "main.15c4c66a.js.map": "/taherahmed/static/js/main.15c4c66a.js.map",
+    "main.edba7724.js.map": "/taherahmed/static/js/main.edba7724.js.map",
     "787.7be75eeb.chunk.js.map": "/taherahmed/static/js/787.7be75eeb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e3855c7.css",
-    "static/js/main.15c4c66a.js"
+    "static/js/main.edba7724.js"
   ]
 }
