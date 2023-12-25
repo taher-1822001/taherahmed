@@ -9,6 +9,7 @@ import Achievements from './components/achievements';
 import Experience from './components/experience';
 import Projects from './components/Projects';
 import Contact from './components/contact';
+import Footer from './components/footer';
 function App() {
   return (
     <div className="App">
@@ -21,6 +22,7 @@ function App() {
       <Projects />
       <Achievements />
       <Contact />
+      <Footer />
     </div>
   );
 }

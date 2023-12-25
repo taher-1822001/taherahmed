@@ -27,7 +27,7 @@ class About extends React.Component {
                         <h2>About Me</h2>
                     </div>
                     <div className='w-100'></div>
-                    <div className='col-lg-3 m-3 col-xs-12'>
+                    <div className='col-lg-3 mt-3 col-xs-12'>
                         <center><img src={profile} alt="profile" style={{ width: "200px", height: "200px", borderRadius: "50%" }} /></center>
                     </div>
 

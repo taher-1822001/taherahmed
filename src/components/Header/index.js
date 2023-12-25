@@ -16,7 +16,7 @@ const Header = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light background" style={{ position: 'fixed', zIndex: 1000, left:"0", right:"0", top:"0" }}>
       <button
-        className="navbar-toggler"
+        className="navbar-toggler m-2"
         type="button"
         onClick={handleToggle}
         aria-expanded={isOpen ? 'true' : 'false'}

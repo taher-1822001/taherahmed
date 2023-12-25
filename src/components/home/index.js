@@ -6,7 +6,7 @@ import instagram from '../../images/logos/instagram.png';
 import facebook from '../../images/logos/facebook.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronDown } from '@fortawesome/free-solid-svg-icons';
-import Footer from '../../components/footer';
+
 import Header from '../../components/Header';
 import whatsapp from '../../images/logos/whatsapp.webp';
 import gmail from '../../images/logos/gmail.png';
@@ -62,17 +62,19 @@ class Home extends React.Component {
                 <a href='mailto:work.taherahmed@gmail.com' target='_blank'><img className='img img-fluid m-2 mt-1 animate__animated animate__bounce' src={gmail} alt="gmail" style={{ width: "36px", height: "30px" }} /></a>
               </div>
               <button className='btn btn-primary mt-4' onClick={this.downloadResume}>Download Resume</button>
-              <div className='mt-4'>
+              <div className='mt-5'>
                 <a href="#about">
                   <button className='btn down m-0'>
                     <FontAwesomeIcon icon={faChevronDown} />
                   </button>
                 </a>
               </div>
+
+              <div style={{height:"270px"}}></div>
             </div>
           </div>
         </div>
-        <Footer />
+
       </>
     )
   }
