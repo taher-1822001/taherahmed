@@ -52,7 +52,7 @@ class Experience extends React.Component {
                             "<b>From:</b> 15/02/2023 &nbsp; <b>to:</b> 14/08/2023", 
                             "Gurgaon", 
                             "Remote",
-                            "Managed React JS frontend and Django backend, enhancing app efficiency by 30%."
+                            "Managed React JS frontend and Django backend, enhancing app efficiency by 30%, Transitioned backend from Spring Boot/Node.js to Django, boosting system performance by 45%."
                         )}
                         
                         {this.renderExperienceCard(
@@ -61,7 +61,7 @@ class Experience extends React.Component {
                             "<b>From:</b> 02/12/2022 &nbsp; <b>to:</b> 14/02/2023", 
                             "Banglore", 
                             "Remote",
-                            "Oversaw project timelines and team communication as a program coordinator intern, improving project delivery efficiency by 15%."
+                            "Oversaw project timelines and team communication as a program coordinator intern, improving project delivery efficiency by 15%, •	Managed client interactions, aligning project goals with client needs, resulting in a 20% rise in client satisfaction."
                         )}
                         
                         {this.renderExperienceCard(
@@ -70,7 +70,7 @@ class Experience extends React.Component {
                             "<b>From:</b> 15/03/2021 &nbsp; <b>to:</b> 15/05/2023", 
                             "Hyderabad", 
                             "On Site",
-                            "Contributed to designing and developing embedded systems, resulting in a 20% reduction in prototype development time."
+                            "Contributed to designing and developing embedded systems, resulting in a 20% reduction in prototype development time, •	Aided in creating prototypes for new products, streamlining the innovation process by 25% for system improvements"
                         )}
                     </div>
                 </div>
