@@ -1,6 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronDown } from '@fortawesome/free-solid-svg-icons';
+
 class SkillsAndTools extends React.Component {
   constructor(props) {
     super(props);
@@ -13,24 +14,19 @@ class SkillsAndTools extends React.Component {
     // Trigger animation after component mount
     setTimeout(() => {
       this.setState({ showContainer: true });
-    }, 100); // Change this delay according to your requirement
+    }, 100);
   }
 
   render() {
     const { showContainer } = this.state;
     return (
-      <>
-        <div
-          className={`container d-flex align-items-center justify-content-center mt-5 ${showContainer ? 'fade-in' : ''
-            }`}
-          id="skills"
-        >
-          <div className="row align-items-center justify-content-center">
-            <h2>Skills And Tools</h2>
-            <div className="col-lg-6 border shadow p-4 rounded m-1">
-              <h2>Skills</h2>
-              <div className="row">
-                <div className="col rounded border shadow d-flex align-items-center m-2 p-2">
+      <div className={`container d-flex align-items-center justify-content-center mt-5 ${showContainer ? 'fade-in' : ''}`} id="skills">
+        <div className="row align-items-center justify-content-center m-1">
+          <h2>Skills And Tools</h2>
+          <div className="col-lg-6 border shadow p-4 rounded m-1">
+            <h2>Skills</h2>
+            <div className="row">
+            <div className="col rounded border shadow d-flex align-items-center m-2 p-2">
                   <img
                     src="https://skillicons.dev/icons?i=html&theme=dark&"
                     alt="html"
@@ -38,7 +34,7 @@ class SkillsAndTools extends React.Component {
                   />
                   <span>HTML</span>
                 </div>
-                <div className="col rounded border shadow d-flex align-items-center m-2 p-2">
+                <div className="col-6 rounded border shadow d-flex align-items-center m-2 p-2">
                   <img
                     src="https://skillicons.dev/icons?i=css&theme=dark&"
                     alt="html"
@@ -142,12 +138,12 @@ class SkillsAndTools extends React.Component {
                   />
                   <span>Java</span>
                 </div>
-              </div>
             </div>
-            <div className="col-lg-4 border rounded shadow p-4 m-1">
-              <h2>Tools</h2>
-              <div className="row">
-                <div className="col rounded border shadow d-flex align-items-center m-2 p-2">
+          </div>
+          <div className="col-lg-4 border rounded shadow p-4 m-1">
+            <h2>Tools</h2>
+            <div className="row">
+            <div className="col rounded border shadow d-flex align-items-center m-2 p-2">
                   <img
                     src="https://skillicons.dev/icons?i=vscode&theme=light&"
                     alt="html"
@@ -203,15 +199,12 @@ class SkillsAndTools extends React.Component {
                   />
                   <span>Postman</span>
                 </div>
-              </div>
-            </div>
-
-           
             </div>
           </div>
-        </>
-        );
+        </div>
+      </div>
+    );
   }
 }
 
-        export default SkillsAndTools;
+export default SkillsAndTools;

@@ -1,5 +1,8 @@
-.App {
-  text-align: center;
+/* .App {
+  border:2px solid black;
+} */
+.nav-link{
+  text-align:center;
 }
 
 
@@ -7,4 +10,12 @@
 
 
 
-
+ h2{
+  text-align:center;
+ }
+ h4{
+  text-align:center;
+ }
+.card-title{
+  text-align:left;
+}

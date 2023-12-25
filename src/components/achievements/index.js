@@ -15,10 +15,11 @@ class Achievements extends React.Component{
         return(
             <>
             <div className="container" id="achievements">
-                <div className='row justify-content-center'>
-                    <div className='row mt-5'>
+                <div className='row m-1 justify-content-center'>
+                    <div className='col mt-5'>
                         <h2>Achievements</h2>
                     </div>
+                    <div className='w-100'></div>
                     <div className='col-lg-4 m-1 border rounded p-3 shadow'>
                         <a href={innowiz}><img src={innowiz} className="img-fluid shadow rounded" /></a>
 

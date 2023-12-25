@@ -40,7 +40,7 @@ class Contact extends React.Component {
             <>
             <ToastContainer />
                 <div className='container justify-content-center align-items-center mb-5' id='contact'>
-                    <div className='row justify-content-center'>
+                    <div className='row m-q justify-content-center'>
                         <div className='col'>
                             <h2 className='mt-5'>Contact</h2>
                         </div>

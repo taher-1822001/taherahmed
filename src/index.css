@@ -4,6 +4,8 @@ body {
   font-family: 'Varela Round', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  
 }
 
 code {
@@ -63,9 +65,9 @@ code {
   to{border-right-color: transparent;}
 }
 
-.rounded{
+/* .rounded{
   border-radius: 15px !important;
-}
+} */
 
 .background{
   background-color:#ff9a00 !important;
