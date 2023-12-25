@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/taherahmed/static/css/main.6e3855c7.css",
-    "main.js": "/taherahmed/static/js/main.307b6045.js",
+    "main.css": "/taherahmed/static/css/main.7754b5fb.css",
+    "main.js": "/taherahmed/static/js/main.ac6a1c64.js",
     "static/js/787.7be75eeb.chunk.js": "/taherahmed/static/js/787.7be75eeb.chunk.js",
     "static/media/teckFiesta.jpg": "/taherahmed/static/media/teckFiesta.8addfca29dab83201e95.jpg",
     "static/media/twistcontactmanager.png": "/taherahmed/static/media/twistcontactmanager.22e49a03a20c87b66526.png",
@@ -24,12 +24,12 @@
     "static/media/github.png": "/taherahmed/static/media/github.05f6c17b8cd04c28456f.png",
     "static/media/linkedin.png": "/taherahmed/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/taherahmed/index.html",
-    "main.6e3855c7.css.map": "/taherahmed/static/css/main.6e3855c7.css.map",
-    "main.307b6045.js.map": "/taherahmed/static/js/main.307b6045.js.map",
+    "main.7754b5fb.css.map": "/taherahmed/static/css/main.7754b5fb.css.map",
+    "main.ac6a1c64.js.map": "/taherahmed/static/js/main.ac6a1c64.js.map",
     "787.7be75eeb.chunk.js.map": "/taherahmed/static/js/787.7be75eeb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e3855c7.css",
-    "static/js/main.307b6045.js"
+    "static/css/main.7754b5fb.css",
+    "static/js/main.ac6a1c64.js"
   ]
 }
