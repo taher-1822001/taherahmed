@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7754b5fb.css",
-    "main.js": "/static/js/main.0c56187d.js",
+    "main.js": "/static/js/main.de85949b.js",
     "static/js/787.7be75eeb.chunk.js": "/static/js/787.7be75eeb.chunk.js",
     "static/media/teckFiesta.jpg": "/static/media/teckFiesta.8addfca29dab83201e95.jpg",
     "static/media/twistcontactmanager.png": "/static/media/twistcontactmanager.22e49a03a20c87b66526.png",
@@ -25,11 +25,11 @@
     "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/index.html",
     "main.7754b5fb.css.map": "/static/css/main.7754b5fb.css.map",
-    "main.0c56187d.js.map": "/static/js/main.0c56187d.js.map",
+    "main.de85949b.js.map": "/static/js/main.de85949b.js.map",
     "787.7be75eeb.chunk.js.map": "/static/js/787.7be75eeb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7754b5fb.css",
-    "static/js/main.0c56187d.js"
+    "static/js/main.de85949b.js"
   ]
 }
