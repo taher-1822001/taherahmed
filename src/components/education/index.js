@@ -58,7 +58,7 @@ class Education extends React.Component {
                                         <div className='col-md-9 col-sm-8'>
                                             <h4 className='card-title'>St. Mary's Engineering College</h4>
                                             <hr />
-                                                <small><b>From:</b> 30/05/2018 <b>to:</b> 24/08/2023</small>
+                                                <small><b>From:</b> 30/05/2018 <b>to:</b> 24/08/2021</small>
                                             <p className='card-text text-left'>
                                                 Completed Diploma in Electronics and Communication Engineering, CGPA: 8.45<br />
                                             </p>

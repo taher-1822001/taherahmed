@@ -48,7 +48,7 @@ class Experience extends React.Component {
 
                         {this.renderExperienceCard(
                             hc, 
-                            "Health Compass Private Limited", 
+                            "Health Compass Private Limited (T-Hub Incubated Startup)", 
                             "<b>From:</b> 15/02/2023 &nbsp; <b>to:</b> 14/08/2023", 
                             "Gurgaon", 
                             "Remote",
