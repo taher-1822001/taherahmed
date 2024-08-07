@@ -1,5 +1,5 @@
 import React from 'react';
-import profile from '../../images/profile/profile.png';
+import profile from '../../images/profile/profile.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronDown } from '@fortawesome/free-solid-svg-icons';
 

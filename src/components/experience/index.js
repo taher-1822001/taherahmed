@@ -67,7 +67,7 @@ class Experience extends React.Component {
                         {this.renderExperienceCard(
                             es, 
                             "Espark Technologies", 
-                            "<b>From:</b> 15/03/2021 &nbsp; <b>to:</b> 15/05/2023", 
+                            "<b>From:</b> 15/03/2021 &nbsp; <b>to:</b> 15/05/2021", 
                             "Hyderabad", 
                             "On Site",
                             "Contributed to designing and developing embedded systems, resulting in a 20% reduction in prototype development time, aided in creating prototypes for new products, streamlining the innovation process by 25% for system improvements"

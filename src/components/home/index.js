@@ -1,5 +1,5 @@
 import React from 'react';
-import profile from '../../images/profile/profile.png';
+import profile from '../../images/profile/profile.jpg';
 import github from '../../images/logos/github.png';
 import linkedin from '../../images/logos/linkedin.png';
 import instagram from '../../images/logos/instagram.png';

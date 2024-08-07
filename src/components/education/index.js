@@ -38,9 +38,9 @@ class Education extends React.Component {
                                         <div className='col-md-9 col-sm-8'>
                                             <h4 className='card-title'>Lords Institute of Engineering and Technology</h4>
                                             <hr />
-                                                <small><b>From:</b> 21/09/2021 <b>to:</b> Current</small>
+                                                <small><b>From:</b> 21/09/2021 <b>to:</b> 27/07/24</small>
                                             <p className='card-text text-left'>
-                                                Pursuing B.E in Information Technology<br />
+                                                Successfully Completed B.E in Information Technology, achieving a CGPA of 7.28<br />
                                             </p>
                                         </div>
                                     </div>
@@ -60,7 +60,7 @@ class Education extends React.Component {
                                             <hr />
                                                 <small><b>From:</b> 30/05/2018 <b>to:</b> 24/08/2021</small>
                                             <p className='card-text text-left'>
-                                                Completed Diploma in Electronics and Communication Engineering, CGPA: 8.45<br />
+                                                Completed Diploma in Electronics and Communication Engineering, achieving a CGPA of 8.45<br />
                                             </p>
                                         </div>
                                     </div>
