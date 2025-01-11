@@ -61,7 +61,7 @@ class Home extends React.Component {
                 <a href='https://www.facebook.com/taher1822001' target='_blank'><img className='img img-fluid m-2 mt-1 animate__animated animate__bounce' src={facebook} alt="facebook" style={{ width: "30px", height: "30px" }} /></a>
                 <a href='mailto:work.taherahmed@gmail.com' target='_blank'><img className='img img-fluid m-2 mt-1 animate__animated animate__bounce' src={gmail} alt="gmail" style={{ width: "36px", height: "30px" }} /></a>
               </div>
-              <button className='btn btn-primary mt-4' onClick={this.downloadResume}>Download Resume</button>
+              <button className='btn btn-danger mt-4' onClick={this.downloadResume}>Download Resume</button>
               <div className='mt-5'>
                 <a href="#about">
                   <button className='btn down m-0'>
