@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/taherahmed/static/css/main.c453f70a.css",
-    "main.js": "/taherahmed/static/js/main.99f5db21.js",
+    "main.css": "/taherahmed/static/css/main.fef501a1.css",
+    "main.js": "/taherahmed/static/js/main.a8a5148a.js",
     "static/js/787.7be75eeb.chunk.js": "/taherahmed/static/js/787.7be75eeb.chunk.js",
     "static/media/teckFiesta.jpg": "/taherahmed/static/media/teckFiesta.8addfca29dab83201e95.jpg",
     "static/media/twistcontactmanager.png": "/taherahmed/static/media/twistcontactmanager.22e49a03a20c87b66526.png",
@@ -13,6 +13,7 @@
     "static/media/responsiveWebDesign.png": "/taherahmed/static/media/responsiveWebDesign.62c27c932e848b5885e2.png",
     "static/media/frontEnd.png": "/taherahmed/static/media/frontEnd.96c156162bc081bb8df4.png",
     "static/media/database.png": "/taherahmed/static/media/database.38e1cb702f58982c46f6.png",
+    "static/media/profile.jpg": "/taherahmed/static/media/profile.0c8d5f284a402133dcd7.jpg",
     "static/media/stmarys.png": "/taherahmed/static/media/stmarys.c3e556b2e4c163cc1730.png",
     "static/media/InternalHackathon.jpg": "/taherahmed/static/media/InternalHackathon.3e627c6bca3ca7361ee8.jpg",
     "static/media/IdeationDay.jpg": "/taherahmed/static/media/IdeationDay.78090b723421c5624347.jpg",
@@ -20,16 +21,15 @@
     "static/media/java.png": "/taherahmed/static/media/java.93c474857b2d3419fcd7.png",
     "static/media/whatsapp.webp": "/taherahmed/static/media/whatsapp.80fc5e78e1370c1af615.webp",
     "static/media/instagram.png": "/taherahmed/static/media/instagram.75e0546a6b5abe4c0506.png",
-    "static/media/profile.jpg": "/taherahmed/static/media/profile.e956d45a28a4dc66f1b5.jpg",
     "static/media/github.png": "/taherahmed/static/media/github.05f6c17b8cd04c28456f.png",
     "static/media/linkedin.png": "/taherahmed/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/taherahmed/index.html",
-    "main.c453f70a.css.map": "/taherahmed/static/css/main.c453f70a.css.map",
-    "main.99f5db21.js.map": "/taherahmed/static/js/main.99f5db21.js.map",
+    "main.fef501a1.css.map": "/taherahmed/static/css/main.fef501a1.css.map",
+    "main.a8a5148a.js.map": "/taherahmed/static/js/main.a8a5148a.js.map",
     "787.7be75eeb.chunk.js.map": "/taherahmed/static/js/787.7be75eeb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c453f70a.css",
-    "static/js/main.99f5db21.js"
+    "static/css/main.fef501a1.css",
+    "static/js/main.a8a5148a.js"
   ]
 }
